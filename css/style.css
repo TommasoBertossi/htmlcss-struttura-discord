@@ -22,6 +22,10 @@ header {
 .color-gold{
     background-color: #daa520;
 }
+
+.color-gray{
+    background-color: #d3d3d3;
+}
 /* Utils */
 
 .top{
