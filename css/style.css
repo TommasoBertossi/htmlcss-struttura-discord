@@ -38,6 +38,13 @@ header {
     height: 50px;
 }
 
+.second-div{
+    width: 60%;
+    height: 500px;
+    background-color: #228b22;
+    margin: auto;
+}
+
 .top{
     min-height: 50px;
     max-width: 60%;
