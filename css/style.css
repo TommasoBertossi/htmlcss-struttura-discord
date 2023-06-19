@@ -15,10 +15,18 @@ header {
     border: 2px dotted black;
 }
 
+.color-blue{
+    background-color: blue;
+}
+
+.color-gold{
+    background-color: #daa520;
+}
+/* Utils */
+
 .top{
     min-height: 50px;
     max-width: 60%;
-    background-color: #daa520;
 }
 
 .flex{
@@ -53,6 +61,14 @@ header {
     width: 50%;
 }
 
-.color-blue{
-    background-color: blue;
+.card1{
+    height: 300px;
+    width: 60%;
+    background-color: #1e90ff;
+}
+
+.card2{
+    height: 300px;
+    width: 40%;
+    background-color: pink;
 }
