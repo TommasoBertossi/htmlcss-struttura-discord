@@ -8,6 +8,7 @@
 
 header {
      background-color: aqua;
+     height: 100px;
 }
 
 .container{
@@ -26,7 +27,16 @@ header {
 .color-gray{
     background-color: #d3d3d3;
 }
+
+.color-pinkish{
+    background-color: #ee82ee;
+}
 /* Utils */
+
+.first-div{
+    width: 60%;
+    height: 50px;
+}
 
 .top{
     min-height: 50px;
