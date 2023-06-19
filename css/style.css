@@ -31,6 +31,10 @@ header {
 .color-pinkish{
     background-color: #ee82ee;
 }
+
+.color-blackish{
+    background-color: #23272a;
+}
 /* Utils */
 
 .first-div{
@@ -91,4 +95,16 @@ header {
     height: 300px;
     width: 40%;
     background-color: pink;
+}
+
+.card-a{
+    height: 300px;
+    width: calc(100% / 3);
+    background-color: #f08080;
+}
+
+.card-b{
+    height: 300px;
+    width: calc((100% / 3) *2 );
+    background-color: #20b2aa;
 }
