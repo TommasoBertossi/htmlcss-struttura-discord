@@ -18,12 +18,34 @@ header {
 .top{
     min-height: 50px;
     max-width: 60%;
+    background-color: #daa520;
 }
 
 .flex{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.item{
+    text-align: center;
+    border: 2px dotted black;
+    height: 100%;
+}
+
+
+.start{
+    width: 25%;
+}
+
+
+.middle{
+    width: 50%;
+}
+
+
+.end{
+    width: 25%;
 }
 
 .mid{
